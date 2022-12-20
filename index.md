@@ -5,6 +5,7 @@ title: Daniel Lodewijk Weller
 # Daniel Lodewijk Weller
 DevOps engineer.
 
++31 6 83948244, 
 <div id="webaddress">
 <a href="daanweller@proton.me">daanweller@proton.me</a>
 </div>
