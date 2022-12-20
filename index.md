@@ -41,7 +41,7 @@ Development and maintainance of Kubernetes platforms, with extended knowledge of
 
 ## Education
 
-`2018-2020`
+`2018 - 2020`
 __Security & Network Engineering (SNE), University of Amsterdam.__
 
 `2013 - 2018`
