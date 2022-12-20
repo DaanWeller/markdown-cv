@@ -13,6 +13,7 @@ DevOps engineer.
 ## About myself
 
 Driven DevOps engineer specialised in developing and maintaining Kubernetes clusters. Always interested in the newest developments in multiple technical areas, such as: new programming languages (i.e. Rust, Go), running Kubernetes on baremetal (RPI Turing 2), Webdevelopment (Svelte, WASM). 2 years of working experience, 5+ years of experience in Linux environments.
+
 Analytical and calm personality. Loves to dive into complex problems and piece solutions together. Also a team-player; a fun team to work with is a high priority when in search for my next challenge. In my spare time I like to ride my gravelbike, fly my drone and make music.
 
 ## Currently
