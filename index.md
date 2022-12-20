@@ -1,91 +1,67 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Daniel Lodewijk Weller
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Daniel Lodewijk Weller
+DevOps engineer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="daanweller@proton.me">daanweller@proton.me</a>
 </div>
 
 
+## About myself
+
+Some text about me.
+
 ## Currently
 
-Standing on the shoulders of giants
+DevOps engineer at Routz.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Development and maintainance of Kubernetes platforms, with extended knowledge of security and networking.
 
 
-### Research interests
+### Experience
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+- Kubernetes DevOps engineer at ODC-Noord (Groningen)
+- Kubernetes DevOps engineer at Enai (Rotterdam)
+- Wi-Fi 6 performance measurements (SNE Master project)
+  - Performance analysis of new features introduced in Wifi 6: 1024-QAM & DL OFDMA
+  - Publication pending on the IEEE Xplore digital library
+- Natural Language Processing - Topic Modeling (Bachelor thesis)
+  - Analysis of open government data of Dutch municipalities using topic modeling
+  - Implementing an efficient approach to apply topic modeling using Gensim
+- 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018-2020`
+__Security & Network Engineering (SNE), University of Amsterdam.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2013 - 2018`
+__Information Science, University of Utrecht__
 
-- Sizar
+### Certifications
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+- PCAP – Certified Associate in Python Programming
+- CKA: Certified Kubernetes Administrator
+- CKS: Certified Kubernetes Security Specialist
+- Cisco Certified Specialist - Enterprise Advanced Infrastructure Implementation
+- Cisco Certified Network Professional Enterprise (CCNP Enterprise)
+- Cisco Certified Specialist - Enterprise Core
+- Cisco Certified DevNet Associate
+- Red Hat Certified System Administrator 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+[Wi-Fi 6 performance measurements of 1024-QAM and DL OFDMA (DOI: 10.1109/ICC40277.2020.9149106)](https://ieeexplore.ieee.org/document/9149106)
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2022 -->
 
 
