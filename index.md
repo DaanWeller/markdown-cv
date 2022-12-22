@@ -30,13 +30,16 @@ Development and maintainance of Kubernetes platforms, with extended knowledge of
 __Kubernetes DevOps engineer at ODC-Noord (Groningen).__
   - RedHat Openshift based platform, built on Openstack.
   - CI/CD development using Gitlab, Ansible and ArgoCD.
+
 `2020 - 2021`
 __Kubernetes DevOps engineer at Enai (Rotterdam)__
   - Development of Kafka cluster running on Kubernetes.
+
 `2018`
 __Wi-Fi 6 performance measurements (SNE Master project)__
   - Performance analysis of new features introduced in Wifi 6: 1024-QAM & DL OFDMA.
   - Publication on the IEEE Xplore digital library (see publications).
+
 `2017`
 __Natural Language Processing - Topic Modeling (Bachelor thesis)__
   - Analysis of open government data of Dutch municipalities using topic modeling.
