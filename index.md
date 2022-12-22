@@ -26,21 +26,25 @@ Development and maintainance of Kubernetes platforms, with extended knowledge of
 
 ### Experience
 
-- Kubernetes DevOps engineer at ODC-Noord (Groningen)
+`2021 - now`
+__Kubernetes DevOps engineer at ODC-Noord (Groningen).__
   - RedHat Openshift based platform, built on Openstack.
   - CI/CD development using Gitlab, Ansible and ArgoCD.
-- Kubernetes DevOps engineer at Enai (Rotterdam)
+`2020 - 2021`
+__Kubernetes DevOps engineer at Enai (Rotterdam)__
   - Development of Kafka cluster running on Kubernetes.
-- Wi-Fi 6 performance measurements (SNE Master project)
+`2018`
+__Wi-Fi 6 performance measurements (SNE Master project)__
   - Performance analysis of new features introduced in Wifi 6: 1024-QAM & DL OFDMA.
   - Publication on the IEEE Xplore digital library (see publications).
-- Natural Language Processing - Topic Modeling (Bachelor thesis)
+`2017`
+__Natural Language Processing - Topic Modeling (Bachelor thesis)__
   - Analysis of open government data of Dutch municipalities using topic modeling.
   - Implementing an efficient approach to apply topic modeling using Gensim.
 
 ## Education
 
-`2018-2020`
+`2018 - 2020`
 __Security & Network Engineering (SNE), University of Amsterdam.__
 
 `2013 - 2018`
