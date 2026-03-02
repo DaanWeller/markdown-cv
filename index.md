@@ -3,7 +3,7 @@ layout: cv
 title: Daniel Lodewijk Weller
 ---
 # Daniel Lodewijk Weller
-DevOps engineer.
+DevOps/Cloud engineer.
 
 <div id="webaddress">
 <a href="daanweller@proton.me">daanweller@proton.me</a>
@@ -12,12 +12,12 @@ DevOps engineer.
 
 ## About myself
 
-Driven DevOps engineer specialised in developing and maintaining Kubernetes clusters. Always interested in the newest developments in multiple technical areas, such as: new programming languages (i.e. Rust, Go), running Kubernetes on baremetal (RPI Turing 2), Webdevelopment (Svelte, WASM). 2 years of working experience, 5+ years of experience in Linux environments.
+Driven DevOps/Cloud engineer specialised in developing and maintaining Kubernetes clusters. Always interested in the newest developments in multiple technical areas, such as: new programming languages (i.e. Rust, Go), running Talos based Kubernetes on baremetal (RPI Turing 2), Webdevelopment (Svelte, WASM). 6 years of working experience, 10+ years of experience in Linux environments.
 Analytical and calm personality. Loves to dive into complex problems and piece solutions together. Also a team-player; a fun team to work with is a high priority when in search for my next challenge. In my spare time I like to ride my gravelbike, fly my drone and make music.
 
 ## Currently
 
-DevOps engineer at Routz, working for ODC-Noord.
+DevOps/Cloud engineer at CINQ ICT, working for het Ministerie van Defensie.
 
 ### Specialized in
 
@@ -26,7 +26,18 @@ Development and maintainance of Kubernetes platforms, with extended knowledge of
 
 ### Experience
 
-`2021 - now`
+`2024 - 2026`
+__Kubernetes DevOps engineer at Ministerie van Defensie (Utrecht).__
+  - Development and management of Rancher based Kubernetes clusters. 
+  - Improvement of image sanatation system using Aquasec and Harbor.
+  - Improvement of automation with use of ArgoCD, Terraform and Gitlab.
+
+`2023 - 2024`
+__Kubernetes DevOps engineer at Univé (Zwolle).__
+  - Kubernetes cluster based on Mirantis Engine. 
+  - Integrations with several Azure services such as Application Gateway.
+
+`2021 - 2023`
 __Kubernetes DevOps engineer at ODC-Noord (Groningen).__
   - RedHat Openshift based platform, built on Openstack.
   - CI/CD development using Gitlab, Ansible and ArgoCD.
